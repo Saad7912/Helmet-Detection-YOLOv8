@@ -1,0 +1,4 @@
+train: /content/images/train  # path to training images
+val: /content/images/val      # path to validation images
+nc: 2                         # number of classes
+names: ['With Helmet', 'Without Helmet']  # class names
